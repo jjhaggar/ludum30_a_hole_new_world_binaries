@@ -1,9 +1,12 @@
 ludum30_a_hole_new_world_binaries
 =================================
 Binaries for the game "A Hole New World"
-Windows executable (full screen)
-Windows executable (windowed)
-Jar executable - Multiplattform (Linux / Mac / Windows)
+
+Windows executable (full screen) https://github.com/jjhaggar/ludum30_a_hole_new_world_binaries/raw/master/A_Hole_New_World_(full_screen).exe
+
+Windows executable (windowed) https://github.com/jjhaggar/ludum30_a_hole_new_world_binaries/raw/master/A_Hole_New_World_(windowed).exe
+
+Jar executable - Multiplattform (Linux / Mac / Windows) https://github.com/jjhaggar/ludum30_a_hole_new_world_binaries/raw/master/A_Hole_New_World.jar
 
 A Hole New World ia an Open Source Game (here are the sources https://github.com/jjhaggar/ludum30_a_hole_new_world) made with Java and libGDX (http://libgdx.badlogicgames.com/) for Ludum Dare 30 Jam http://www.ludumdare.com/compo/
 
